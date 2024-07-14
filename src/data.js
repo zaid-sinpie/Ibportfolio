@@ -19,12 +19,6 @@ const skills = [
 
 const education = [
   {
-    institution: "Dr.J.J.Magdum College Of Engineering, Jaysingpur",
-    degree: "Master of  Computer Application",
-    year: "2022 - 2024",
-    percentage: "Percentage: 65%",
-  },
-  {
     institution: "K.P.Mangalvedhekar Institute Of Management, Solapur",
     degree: "Bachelor of Computer Application",
     year: "2019 - 2022",
